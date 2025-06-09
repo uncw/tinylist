@@ -1,0 +1,4 @@
+9to5linux.com###wpconsent-root
+||accounts.google.com/gsi/*$xhr,script,3p
+/cookie-policy-
+/cookie-policy.js
