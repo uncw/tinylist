@@ -5,3 +5,4 @@
 /cookie-consent
 /cookie-policy-
 /cookie-policy.js
+theverge.com##body:not([style*="overflow: hidden;"]) div#zephr-footer-container
