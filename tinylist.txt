@@ -7,3 +7,4 @@
 /cookie-policy.js
 theverge.com##body:not([style*="overflow: hidden;"]) div#zephr-footer-container
 google.com##div[aria-label="Ads"]
+geeksforgeeks.org##.cookie-consent
